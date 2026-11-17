@@ -1,4 +1,6 @@
+
 streamlit
-pandas
-reportlab
+scikit-learn
+fpdf2
 Pillow
+requests
